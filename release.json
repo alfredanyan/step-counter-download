@@ -2,9 +2,9 @@
   "version": "1.1.0",
   "version_code": "2",
   "android_min": "8.0",
-  "apk_name": "nexstep-1.1.0-debug-5363628b5b4a.apk",
+  "apk_name": "app-debug.apk",
   "size": "167.0 KB",
   "sha256": "5363628b5b4af5e37f4e0ac5a69d38b7bd345ed2b90dfae0be6efaaa22b6a76a",
   "bytes": 171051,
-  "url": "downloads/nexstep-1.1.0-debug-5363628b5b4a.apk"
+  "url": "download/app-debug.apk"
 }
