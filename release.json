@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "version_code": "3",
+  "version": "1.3.0",
+  "version_code": "4",
   "android_min": "8.0",
   "apk_name": "app-debug.apk",
-  "size": "201.8 KB",
-  "sha256": "19d5f4af1c270db52134e4e58c31b70445d03401abf06dc0d32576fd3584788f",
-  "bytes": 206646,
+  "size": "150.9 KB",
+  "sha256": "eea630d6de0008a441e91fb1da5f9a3cdb68f23b6013bcf5564c442e972fbe8a",
+  "bytes": 154516,
   "url": "download/app-debug.apk"
 }
